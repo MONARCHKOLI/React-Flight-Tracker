@@ -1,0 +1,44 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.flight-slider {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.flight-card {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  width: 350px;
+  text-align: center;
+}
+
+.flight-card h2 {
+  color: #007bff;
+}
+
+.details-btn {
+  background: #007bff;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.details-btn:hover {
+  background: #0056b3;
+}
